@@ -1,0 +1,1 @@
+# First2char-input-method
